@@ -1,5 +1,5 @@
 
-🥉News: our team got the 3rd place in the AICity 2021 Challenge on Track 4
+🥉News: our team took the 3rd place in the AICity 2021 Challenge on Track 4
 
 ## Dual-Modality Vehicle Anomaly Detection via Bilateral Trajectory Tracing (CVPRW 2021)
 [Paper Link](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Chen_Dual-Modality_Vehicle_Anomaly_Detection_via_Bilateral_Trajectory_Tracing_CVPRW_2021_paper.pdf)
